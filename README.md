@@ -17,6 +17,6 @@ Repositorio del proyecto de tesis de maestría, enfocado en el monitoreo del con
 
 ## Contacto
 
-**Uriel Díaz Ruiz**  
-Maestría en [Maestría en ciencias en sistemas digitales]  
+**Ing. Uriel Díaz Ruiz**  
+Maestría en [Ciencias en sistemas digitales]  
 [Tijuana, Baja California, MX]
